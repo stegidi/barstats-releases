@@ -6,15 +6,15 @@
         <description>Nuove versioni e aggiornamenti per BarStats.</description>
         <language>it</language>
         <item>
-            <title>BarStats 1.0</title>
-            <sparkle:releaseNotesLink>https://github.com/stegidi/barstats-releases/releases/tag/v1.0</sparkle:releaseNotesLink>
-            <pubDate>Sat, 14 Nov 2026 11:11:50 +0100</pubDate>
+            <title>BarStats 1.1</title>
+            <sparkle:releaseNotesLink>https://github.com/stegidi/barstats-releases/releases/tag/v1.1</sparkle:releaseNotesLink>
+            <pubDate>Sat, 14 Nov 2026 12:30:53 +0100</pubDate>
             <enclosure
-                url="https://github.com/stegidi/barstats-releases/releases/download/v1.0/BarStats.zip"
-                sparkle:version="1"
-                sparkle:shortVersionString="1.0"
-                sparkle:edSignature="nI0nbfHopfhZrDhxTVIlk1r2dBLIFdGCxoUnBb3rKvn365zH2/PrId6IdnAZ28fa7TJbDLNpAuDksT8VI2EhAA=="
-                length="1529210"
+                url="https://github.com/stegidi/barstats-releases/releases/download/v1.1/BarStats.zip"
+                sparkle:version="2"
+                sparkle:shortVersionString="1.1"
+                sparkle:edSignature="1hdA14ZjmM6x5rdBYju0ezbdxViDDs77Yy2fnB8bV+jtpXLwU5pA4D22usjHZz8UfeFieYP3oOBQb+AUq8h8CA=="
+                length="1670560"
                 type="application/octet-stream" />
         </item>
     </channel>
